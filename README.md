@@ -14,7 +14,6 @@ This project aims to analyze squats using real-time body landmark detection and 
 - [Time Series Analysis and Visualization](#time-series-analysis-and-visualization)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -101,9 +100,6 @@ insect-squat-analysis/
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-## License
-This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - This project uses [MediaPipe](https://mediapipe.dev/) for body landmark detection.
