@@ -2,6 +2,13 @@
 
 This project aims to analyze squats using real-time body landmark detection and distance measurements, leveraging MediaPipe and OpenCV for computer vision tasks. It records the necessary data, performs time series analysis, and visualizes the results to differentiate between correct and faulty squats.
 
+# Outcomes
+![1](https://github.com/user-attachments/assets/ffb0d4e4-b7cb-4d27-a452-a9dc4e6d7c19)
+![2](https://github.com/user-attachments/assets/ad2181ce-5af9-4a37-afc0-fc47ea38395a)
+![3](https://github.com/user-attachments/assets/c5775f1e-eb5c-4ec3-8198-2f265e07e6b2)
+![4](https://github.com/user-attachments/assets/40a2a531-af63-4351-9933-4f6ca1706c35)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
